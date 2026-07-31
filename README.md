@@ -1,4 +1,5 @@
 # fit-nexus-showcase
+https://drive.google.com/file/d/1V-UAP2zLRc3aX8AZHLoHk_puqVhQxbtP/view?usp=drive_link
 
 Showcase repo for FIT‑NEXUS project - vision, screenshots, and demo materials.
 
