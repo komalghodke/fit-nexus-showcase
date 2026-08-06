@@ -1,5 +1,6 @@
 # fit-nexus-showcase
 
+Explore the Project: https://fitnexus-frontend.vercel.app
 Showcase repo for FIT‑NEXUS project - vision, screenshots, and demo materials.
 # 🎥 Project Demo
 A complete demonstration of the **FitNexus** application, including all major features and workflows, is available at the link below.
