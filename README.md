@@ -1,11 +1,13 @@
 # fit-nexus-showcase
 
+Explore the Deployed Project: https://fitnexus-frontend.vercel.app
+
 Showcase repo for FIT‑NEXUS project - vision, screenshots, and demo materials.
 # 🎥 Project Demo
 A complete demonstration of the **FitNexus** application, including all major features and workflows, is available at the link below.
 
 > 📹 **Demo Video:**  
-> [https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing](https://drive.google.com/file/d/1V-UAP2zLRc3aX8AZHLoHk_puqVhQxbtP/view?usp=drive_link)
+> [Fit-nexus Demo Video](https://drive.google.com/file/d/1V-UAP2zLRc3aX8AZHLoHk_puqVhQxbtP/view?usp=drive_link)
 
 ---
 # 🧘 FitNexus — Holistic Wellness Ecosystem
